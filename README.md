@@ -1,2 +1,2 @@
 # Login-form
- Beutiful Login form
+ Beautiful Login form
